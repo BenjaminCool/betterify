@@ -4,8 +4,8 @@ Contributors: BrashRebel, karpstrucking, cklosows, A2BCool
 Donate link: http://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=admin%40realbigmarketing%2ecom
 Tags: fix, performance, seo, optimize, repair, better, errors, magic, security
 Requires at least: 3.9.0
-Tested up to: 4.0.0
-Stable tag: 0.2
+Tested up to: 4.3.1
+Stable tag: 0.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
